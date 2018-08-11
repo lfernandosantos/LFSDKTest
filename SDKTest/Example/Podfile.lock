@@ -1,0 +1,16 @@
+PODS:
+  - SDKTest (0.1.0)
+
+DEPENDENCIES:
+  - SDKTest (from `../`)
+
+EXTERNAL SOURCES:
+  SDKTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SDKTest: edb663a17b81f9f3b006ad1817d6c97ed760758e
+
+PODFILE CHECKSUM: 9a18dd74cc55f06566e9329e9f4ef52864d83c7f
+
+COCOAPODS: 1.5.3

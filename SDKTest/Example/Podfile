@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SDKTest_Example' do
+  pod 'SDKTest', :path => '../'
+
+  target 'SDKTest_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

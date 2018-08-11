@@ -1,0 +1,22 @@
+{
+  "name": "SDKTest",
+  "version": "0.1.0",
+  "summary": "A short description of SDKTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lfernandosantos/SDKTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lfernandosantos": "lf.fernandosantos@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/lfernandosantos/SDKTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SDKTest/Classes/**/*"
+}
